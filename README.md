@@ -3,7 +3,7 @@
 
 ##다운로드
 [http://www.sublimetext.com/](http://www.sublimetext.com/)
-![sublimeText3 download](../Resources/img/download.jpg)
+![sublimeText3 download](./Resources/img/download.jpg)
 
 ## 주요기능
 
